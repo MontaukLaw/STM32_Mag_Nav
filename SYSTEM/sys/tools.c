@@ -1,6 +1,6 @@
 #include "tools.h"
 #define BASE_SPEED 100
-#define Km 40
+#define Km 40  //平顺性可以调整这个参数
 
 
 void getDesireSpeed(u8* statusCode,u16* leftDesireSpeed,u16* rightDesireSpeed){
